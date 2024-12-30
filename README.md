@@ -24,6 +24,7 @@ Delete Notes: Users can remove notes that are no longer needed.
 Search Functionality (if applicable): Quickly find specific notes by searching for keywords.
 Responsive Design: The app is optimized for different screen sizes, ensuring a seamless experience on both desktop and mobile devices.
 Local Storage Integration (if applicable): Notes are saved locally in the browser, ensuring data persistence even after the page is refreshed.
+
 How to Use the Notes App
 
 git clone  https://github.com/Sachin-23456/Notes
